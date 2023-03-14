@@ -159,6 +159,6 @@ for alluser in users:
         traceback.print_exc()
         print("Unexpected Error")
         continue
- if user['username'] === '@skylineict':
+ if user['username'] === '@kelb':
   exception usernotfound:
    print("username not allowed to add in the group")
